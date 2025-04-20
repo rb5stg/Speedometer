@@ -10,7 +10,7 @@ benchmark, actual users should benefit. In order to achieve this, it should:
     accomplish a task.
 -   Evolve over time, adapting to the present Web on a regular basis. This should be informed
     by current usage data, and by consensus about features which are important for engines to
-    optimize to provide a consistent experience for users and site authors.
+    optimize to provide1 a consistent experience for users and site authors.
 -   Be accessible to the public and useful to browser engineers. It should run in every modern
     browser by visiting a normal web page. It should run relatively quickly, while providing
     enough test coverage to be reflective of the real-world Web.
